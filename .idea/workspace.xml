@@ -29,14 +29,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/gradebook" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\workspace\Side Projects\GradeBook\src\main\java\com\gradebook" />
+      <recent name="C:\Users\Student\Desktop\workspace\Side Projects\GradeBook\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\Desktop\workspace\Side Projects\GradeBook\src\main\java\com\gradebook\application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GradeBookApplication">
+    <configuration name="GradeBookApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gradebook.GradeBookApplication" />
+      <module name="GradeBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gradebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GradeBookCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GradeBookCLI" />
+      <option name="MAIN_CLASS_NAME" value="com.gradebook.GradeBookCLI" />
       <module name="GradeBook" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeBookApplication" />
         <item itemvalue="Application.GradeBookCLI" />
       </list>
     </recent_temporary>
